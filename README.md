@@ -154,22 +154,22 @@ Four themed dashboards were designed with a consistent dark layout, KPI cards, c
 ### 1. Gas Sales, Billing & Recovery
 Overall performance snapshot: total net bill, consumers, gas sold, recovery %, bill by region, gas sold by unit, average bill per consumer and a region-wise summary.
 
-![Dashboard 1](images/SS1.png)
+![Dashboard 1](Dashboard1.png)
 
 ### 2. Billing Analysis: Gas Charges, GST & Meter Rent
 Breakdown of gas charges, GST and meter rent by customer class and unit, with the average bill value by region.
 
-![Dashboard 2](images/SS2.png)
+![Dashboard 2](Dashboard2.png)
 
 ### 3. Recovery & Arrears
 Payments received, outstanding amounts, arrears percentage and collection vs. current bill, analyzed by region, category and customer class.
 
-![Dashboard 3](images/SS3.png)
+![Dashboard 3](Dashboard3.png)
 
 ### 4. Consumption & Customers
 Gas volume, bills issued, consumption per consumer and zone-wise consumption summary.
 
-![Dashboard 4](images/SS4.png)
+![Dashboard 4](Dashboard.png)
 
 ## Key KPIs
 
