@@ -200,34 +200,6 @@ Gas volume, bills issued, consumption per consumer and zone-wise consumption sum
 - Recovery percentage varies widely across regions, with Hyderabad and Hub performing highest in the observed month.
 - GST remains consistent at roughly 19% of gas charges.
 
-## Repository Structure
-
-```
-SSGC-Analytics-Project/
-├── data/                 # Sample / dummy data only (no confidential data)
-├── python/               # EDA notebooks and scripts
-├── sql/                  # SQL extraction queries
-├── powerbi/              # .pbix file and Power Query steps
-├── images/               # Dashboard screenshots
-└── README.md
-```
-
-> Adjust the folder names to match your actual repository.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   ```
-2. Install the required Python libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-3. Open the notebooks in the `python/` folder to review the EDA.
-4. Run the queries in the `sql/` folder against your database.
-5. Open the `.pbix` file in **Power BI Desktop** and refresh the data source.
-
 ## Limitations & Future Scope
 
 - Analysis covers a single billing month; multi-month trend analysis can be added.
