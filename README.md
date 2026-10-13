@@ -169,7 +169,7 @@ Payments received, outstanding amounts, arrears percentage and collection vs. cu
 ### 4. Consumption & Customers
 Gas volume, bills issued, consumption per consumer and zone-wise consumption summary.
 
-![Dashboard 4](Dashboard.png)
+![Dashboard 4](Dashboard4.png)
 
 ## Key KPIs
 
