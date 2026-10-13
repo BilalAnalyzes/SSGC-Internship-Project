@@ -241,9 +241,5 @@ This project was completed for educational and internship purposes at SSGC. All 
 
 ## Author
 
-**[Your Name]**
-Data Analyst Intern, Sui Southern Gas Company Limited (SSGC)
+Syed Bilal Ahmed
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
